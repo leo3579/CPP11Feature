@@ -284,6 +284,7 @@ int main()
   
    // without decltype keyword 
    cout<<"decltype funname1 : "<<Kbj.funname1(10.9, 10)<<endl;
+
    // with decltype keyword
    cout<<"decltype funname2 : "<<Kbj.funname2(10.9, 10)<<endl;
    
