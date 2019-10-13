@@ -231,7 +231,7 @@ auto cpp11::update(std::vector<int> & vec)
    {
       if(element % 2)
       {
-	 ++sf; // Accessing member variable from outer scope
+	 ++sf;  // Accessing member variable from outer scope
       }
    });
 
