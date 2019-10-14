@@ -31,7 +31,7 @@ class cpp11 // *final* keyword is used this class can not be inherited to any de
 
    private:
      
-     size_t len = 0;   // in c++11 we can initialize class member variables in declaration itself
+     size_t len = 0; // in c++11 we can initialize class member variables in declaration itself
      // const long double *var = 10__cm;
      // static_assert(var < 100, "Error in long double defined literals");
      char *str = nullptr;
